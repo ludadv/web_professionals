@@ -1,4 +1,9 @@
 import jQuery from 'jquery';
+import popper from 'popper.js';
+import bootstrap from 'bootstrap';
+import slick from './slick.js';
+import validate from './jquery.validate.min.js';
+import Magnific from './jquery.magnific-popup.min.js';
 
 window.jQuery = jQuery;
 window.$ = jQuery;
