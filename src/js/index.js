@@ -7,7 +7,6 @@ require('./parallax.js');
 
 window.jQuery(document).ready(($) => {
 
-    alert('zzz');
   // слайдер
   $('.single-slide').slick({
     dots: true,
